@@ -1,5 +1,4 @@
 # robodogproject
-<b>Robotic Dog project<b>
-<br> <hr>
-Author - Jayati Mahato
+Robotic Dog project <br>
+Author - Jayati Mahato <br>
 Author - Anshika Yadav
