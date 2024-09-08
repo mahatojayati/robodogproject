@@ -1,4 +1,4 @@
 # robodogproject
 Robotic Dog project
-<br>
+<br> <hr>
 Author - Jayati Mahato
